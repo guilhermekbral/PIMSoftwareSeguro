@@ -11,8 +11,25 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        
+        <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
+            <div id="dvTitulo">
+
+            </div>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+            <div id="dvMenu">
+
+            </div>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="cphcphCorpoPrincipal" runat="server">
+            <div id="dvCorpoPrincipal">
+
+            </div>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="cphRodape" runat="server">
+            <div id="dvRodape">
+
+            </div>
         </asp:ContentPlaceHolder>
     </div>
     </form>
