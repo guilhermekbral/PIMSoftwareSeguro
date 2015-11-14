@@ -4,10 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" type="stylesheet" />
     <title>
         Software de Seguro Veicular.PIM 2015
     </title>
-    <link href="App_Themes/CSS/Estilos.css" rel="Stylesheet" />
+
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
