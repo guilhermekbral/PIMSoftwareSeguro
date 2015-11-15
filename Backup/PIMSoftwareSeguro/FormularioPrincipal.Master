@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" />
+    <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" type="stylesheet" />
     <title>
         Software de Seguro Veicular.PIM 2015
     </title>
@@ -17,7 +17,7 @@
     <div>
         <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
             <div id="dvTitulo">
-                <table width="1200" border="2">
+                <table width="1200">
                     <tr>
                         <td height="200" class="clsTitulo" align="center" valign="middle">
                             Software de Seguro Veicular.PIM 2015
@@ -29,7 +29,7 @@
 
         <asp:ContentPlaceHolder ID="cphMenu" runat="server">
             <div id="dvMenu">
-                <table width="1200" border="2">
+                <table width="1200">
                     <tr>
                         <td width="300" height="50" class="clsTextoMenu">
                            <a href="Default.aspx">

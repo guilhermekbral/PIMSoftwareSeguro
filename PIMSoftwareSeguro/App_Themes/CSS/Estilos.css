@@ -1,1 +1,13 @@
-﻿
+﻿body {
+    background-color: azure;
+    font-family: Constantia;
+    font-size: large;
+    font-weight: 300;
+}
+
+#dvTitulo {
+    background-color: azure;
+    font-family: Constantia;
+    font-size: larger;
+    font-weight: 300;
+}

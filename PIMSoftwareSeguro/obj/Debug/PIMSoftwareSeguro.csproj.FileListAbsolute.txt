@@ -2,3 +2,5 @@ c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwa
 c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.pdb
 c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.dll
 c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll.config
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
