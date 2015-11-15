@@ -9,5 +9,12 @@
     background-color: azure;
     font-family: Constantia;
     font-size: larger;
-    font-weight: 300;
+    font-weight: 600;
+}
+
+.ClassTextoSobreCorpo {
+    font-family: Constantia;
+    font-size: larger;
+    font-weight: 900;
+    font-style: oblique;
 }
