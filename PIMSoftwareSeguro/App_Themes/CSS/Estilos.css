@@ -12,9 +12,14 @@
     font-weight: 600;
 }
 
-.ClassTextoSobreCorpo {
-    font-family: Constantia;
-    font-size: larger;
+.classTextoSobreCorpo {
     font-weight: 900;
     font-style: oblique;
+}
+
+.classTextoSobre {
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: oblique;
+    color: cornflowerblue;
 }

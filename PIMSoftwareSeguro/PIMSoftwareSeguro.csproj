@@ -71,6 +71,7 @@
     <Content Include="Cotacao.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Sobre.aspx" />
+    <Content Include="ValidacaoContato.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

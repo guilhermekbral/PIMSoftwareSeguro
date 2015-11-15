@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" />
+    <script type="text/javascript" src="ValidacaoContato.js"></script>
     <title>
         Software de Seguro Veicular.PIM 2015
     </title>
@@ -31,22 +32,22 @@
             <div id="dvMenu">
                 <table width="1200" border="2">
                     <tr>
-                        <td width="300" height="50" class="clsTextoMenu">
+                        <td width="300" height="50" class="clsTextoMenu" align="center">
                            <a href="Default.aspx">
                             Página Principal
                            </a>
                         </td>
-                        <td width="300" height="50" class="clsTextoMenu">
+                        <td width="300" height="50" class="clsTextoMenu" align="center">
                            <a href="Cotacao.aspx">
                             Faça há uma cotação
                            </a>
                         </td>
-                        <td width="300" height="50" class="clsTextoMenu">
+                        <td width="300" height="50" class="clsTextoMenu" align="center">
                            <a href="Sobre.aspx">
                             Conheça mais sobre a empresa!
                            </a>
                         </td>
-                        <td width="300" height="50" class="clsTextoMenu">
+                        <td width="300" height="50" class="clsTextoMenu" align="center">
                            <a href="Contato.aspx">
                             Contatos
                            </a>
@@ -60,7 +61,7 @@
                 <table width="1200">
                     <tr>
                         <td height="400" class="clsTextoCorpo" align="center" valign="middle">
-                            Pagina Principal
+                            Projeto WEB Fabricio referente a NP2
                         </td>
                     </tr>
                 </table>
@@ -71,7 +72,7 @@
                 <table width="1200">
                     <tr>
                         <td height="20" class="clsTextoRodape" align="center" valign="middle">
-                            PIM 4.Segundo semestre de 2015.UNIP
+                            PIM IV - Segundo semestre de 2015 - UNIP
                         </td>
                     </tr>
                 </table>

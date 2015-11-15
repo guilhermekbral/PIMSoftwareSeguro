@@ -4,11 +4,11 @@
         <table width="1200">
             <tr>
                 <td height="100" class="classTextoSobre" align="center" valign="middle">
-                    Sobre
+                    Sobre a empresa
                 </td>
             </tr>
             <tr>
-                <td height="300" class="ClassTextoSobreCorpo" align="center" valign="top">
+                <td height="300" class="classTextoSobreCorpo" align="center" valign="top">
                     UNIP – UNIVERSIDADE PAULISTA<br />
                     PROJETO INTEGRADO MULTIDISCIPLINAR IV.PARTE WEB<br />
                     SOFTWARE DE SEGUROS<br />
