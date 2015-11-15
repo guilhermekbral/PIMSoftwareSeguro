@@ -4,3 +4,9 @@ c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwa
 c:\users\kbral\documents\visual studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.pdb
 C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\PIMSoftwareSeguro.dll.config
 C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\obj\Debug\PIMSoftwareSeguro.csprojResolveAssemblyReference.cache
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.xml
+C:\Users\Kbral\Documents\Visual Studio 2010\Projects\PIMSoftwareSeguro\PIMSoftwareSeguro\bin\EntityFramework.SqlServer.xml
