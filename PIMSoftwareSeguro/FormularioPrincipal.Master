@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" />
-    <script type="text/javascript" src="ValidacaoContato.js"></script>
+    <script type="text/jscript" src="App_Code/JavaScript/ValidaDados.js"></script>
     <title>
         Software de Seguro Veicular.PIM 2015
     </title>
