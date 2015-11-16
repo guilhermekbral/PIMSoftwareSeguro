@@ -5,7 +5,27 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <link href="App_Themes/CSS/Estilos.css" rel="stylesheet" />
-    <script type="text/jscript" src="App_Code/JavaScript/ValidaDados.js"></script>
+    <script language="jscript" type="text/javascript">
+        function fnValidarDados() {
+            var nome = document.getElementsByName("frmContato").getAttribute("txtNome");
+            var telefone = document.getElementsByName("frmContato").getAttribute("txtTelefone");
+            var email = document.getElementsByName("frmContato").getAttribute("txtEmail");
+            if (nome == '') {
+                alert('Nome Vazio !');
+            }
+            else if (telefone == '') {
+                alert('Telefone Vazio !');
+            }
+            else if (email == '') {
+                alert('E-mail Vazio !');
+            }
+            else {
+                document.frmContato.action = './Contato.aspx';
+                document.frmContato.submit();
+            }
+            return false;
+        }
+    </script>
     <title>
         Software de Seguro Veicular.PIM 2015
     </title>

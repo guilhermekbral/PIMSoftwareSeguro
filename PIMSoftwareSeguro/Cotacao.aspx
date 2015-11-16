@@ -7,39 +7,185 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                    <td class="classInfoContato">
                         Nome:
                     </td>
-                    <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
-                        <input type="text" name="txtNome" value="" size="130" />
+                    <td class="classInfoContato">
+                        <input type="text" name="txtNome" value="" size="60" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                    <td class="classInfoContato">
                         Email:
                     </td>
-                    <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
-                        <input type="text" name="txEmail" value="" size="130" />
+                    <td class="classInfoContato">
+                        <input type="text" name="txEmail" value="" size="60" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                    <td class="classInfoContato">
                         Telefone:
                     </td>
-                    <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
-                        <input type="text" name="txtTelefone" value="" size="130" />
+                    <td class="classInfoContato">
+                        <input type="text" name="txtTelefone" value="" size="60" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
-                        Preferencia de contato:
+                    <td class="classInfoContato">
+                        Celular:
                     </td>
-                    <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
-                        <select name="cboMeioContato">
-                            <option value="" selected>Escolha a preferencia do meio de contato</option>
-                            <option value="T">Telefone</option>
-                            <option value="E">Email</option>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCelular" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classInfoContato">
+                        Sexo:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboSexo">
+                            <option value="" selected>Informe seu sexo</option>
+                            <option value="H">Homem</option>
+                            <option value="M">Mulher</option>
                         </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Data de Nascimento:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtDate" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Estado civil:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtEstadoCivil" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Escolaridade:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtEscolaridade" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Profissão:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtProfissao" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Nome do Banco:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtBanco" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Estudante:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboEstudante">
+                            <option value="" selected>Informe se é estudante</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Nao</option>
+                        </select>
+                        &nbsp
+                        <select name="cboTurno">
+                            <option value="" selected>Informe o período em que estuda</option>
+                            <option value="Diurno">Diurno</option>
+                            <option value="Noturno">Noturno</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CEP do Endereço:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCEP" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Logradouro:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtLogradouro" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Bairro:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtBairro" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Localidade:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtLocalidade" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        UF:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtUF" value="" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CPF Segurado:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCPFSegurado" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CNH Segurado:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCNHSegurado" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CPF Condutor:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCPFCondutor" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CNH Condutor:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCNHCondutor" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Parentesco do Condutor com o Segurado:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtParentesco" size="60" />
                     </td>
                 </tr>
                 <tr>

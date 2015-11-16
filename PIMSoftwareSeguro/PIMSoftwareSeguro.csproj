@@ -86,6 +86,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Banco.cs" />
     <Compile Include="Contato.aspx.cs">
       <DependentUpon>Contato.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -126,7 +127,9 @@
   <ItemGroup>
     <Content Include="FormularioPrincipal.Master" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="App_Code\JavaScript\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

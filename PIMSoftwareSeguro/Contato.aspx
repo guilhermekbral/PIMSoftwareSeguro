@@ -8,34 +8,34 @@
                 </td>
             </tr>
             <tr>
-                <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                <td class="classLabelInfoContato">
                     Nome:
                 </td>
-                <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
+                <td class="classInfoContato">
                     <input type="text" name="txtNome" value="" size="130" />
                 </td>
             </tr>
             <tr>
-                <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                <td class="classLabelInfoContato">
                     Email:
                 </td>
-                <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
+                <td class="classInfoContato">
                     <input type="text" name="txEmail" value="" size="130" />
                 </td>
             </tr>
             <tr>
-                <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                <td class="classLabelInfoContato">
                     Telefone:
                 </td>
-                <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
+                <td class="classInfoContato">
                     <input type="text" name="txtTelefone" value="" size="130" />
                 </td>
             </tr>
             <tr>
-                <td width="100" height="50" class="classInfoContato" align="right" valign="middle">
+                <td class="classLabelInfoContato">
                     Preferencia de contato:
                 </td>
-                <td width="1100" height="50" class="classInfoContato" align="left" valign="middle">
+                <td class="classInfoContato">
                     <select name="cboMeioContato">
                         <option value="" selected>Escolha a preferencia do meio de contato</option>
                         <option value="T">Telefone</option>
