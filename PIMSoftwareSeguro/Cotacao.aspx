@@ -44,7 +44,7 @@
                     </td>
                     <td class="classInfoContato">
                         <select name="cboSexo">
-                            <option value="" selected>Informe seu sexo</option>
+                            <option value="" selected>Selecione a opção</option>
                             <option value="H">Homem</option>
                             <option value="M">Mulher</option>
                         </select>
@@ -96,13 +96,13 @@
                     </td>
                     <td class="classInfoContato">
                         <select name="cboEstudante">
-                            <option value="" selected>Informe se é estudante</option>
+                            <option value="" selected>Selecione a opção</option>
                             <option value="S">Sim</option>
                             <option value="N">Nao</option>
                         </select>
                         &nbsp
                         <select name="cboTurno">
-                            <option value="" selected>Informe o período em que estuda</option>
+                            <option value="" selected>Selecione a opção</option>
                             <option value="Diurno">Diurno</option>
                             <option value="Noturno">Noturno</option>
                         </select>
@@ -186,6 +186,202 @@
                     </td>
                     <td class="classInfoContato">
                         <input type="text" name="txtParentesco" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Marca do Veiculo:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtVeiculo" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Modelo do Veiculo:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtModelo" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Ano de Fabricaçao:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtAnofabricacao" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Ano do Modelo:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtAnoModelo" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Carro Zero?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboZero">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Combustivel:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtCombustivel" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Chassi:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtChassi" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Placa:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtPlaca" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Possui dispositivo anti furto?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboFurto">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Possui Kit Gas?
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboGas">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Possui Blindagem?
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboblindagem">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Carro é utilizado para lazer?
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboLazer">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        CEP pernoite:
+                    </td>
+                    <td class="classInfoContato">
+                        <input type="text" name="txtcepPernoite" size="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboFurto">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Veiculo Utilizado para trabalho?
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboTrabalho">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Possui estacionamento fechado no trabalho?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboGaragemTrabalho">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Possui garagem fechada em casa?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboGaragemCasa">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Portao manual?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboManual">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="classLabelInfoContato">
+                        Veiculo uso comercial?:
+                    </td>
+                    <td class="classInfoContato">
+                        <select name="cboComercial">
+                            <option value="" selected>Selecione a opção</option>
+                            <option value="S">Sim</option>
+                            <option value="N">Não</option>
+                        </select>
                     </td>
                 </tr>
                 <tr>
